@@ -1,4 +1,4 @@
-# Advent of Code [Current Year]
+# Advent of Code 2020
 
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
@@ -13,18 +13,29 @@ If you'd like to support Advent of Code, you can do so indirectly by helping to 
 
 Advent of Code is a registered trademark in the United States.
 
-## Advent of Code [Current Year] Story
-*Add the story for the current year here*
+## Advent of Code 2020 Story
+After saving Christmas [five years in a row](https://adventofcode.com/events), you've decided to take a vacation at a nice resort on a tropical island. Surely, Christmas will go on without you.
+
+The tropical island has its own currency and is entirely cash-only. The gold coins used there have a little picture of a starfish; the locals just call them **stars**. None of the currency exchanges seem to have heard of them, but somehow, you'll need to find fifty of these coins by the time you arrive so you can pay the deposit on your room.
+
+To save your vacation, you need to get all **fifty stars** by December 25th.
+
+Collect stars by solving puzzles. Two puzzles will be made available on each day in the Advent calendar; the second puzzle is unlocked when you complete the first. Each puzzle grants **one star**. Good luck!
 
 ## Progress
 
 | Day  | Part One | Part Two | 
 |---|:---:|:---:|
-|[:heavy_check_mark: Day 01: Completed Example](https://github.com/BPitts8019/Advent-of-Code/tree/main/src/day-01)  | :star: | :star: |
-|[Day 02: In Progress Example](https://github.com/BPitts8019/Advent-of-Code/tree/main/src/day-02)  | :clock5: In Progress | :smirk: Not Started |
+|[Day 01: Expense Report](https://github.com/BPitts8019/Advent-of-Code/tree/main/src/day-01)  | :star: Complete | :smirk: Not Started |
+|[Day 02: TBD](https://github.com/BPitts8019/Advent-of-Code/tree/main/src/day-02)  | :hourglass_flowing_sand: TBD | :hourglass_flowing_sand: TBD |
 |[Day 03: TBD](https://github.com/BPitts8019/Advent-of-Code/tree/main/src/day-03)  | :hourglass_flowing_sand: TBD | :hourglass_flowing_sand: TBD |
 |[Day 04: TBD](https://github.com/BPitts8019/Advent-of-Code/tree/main/src/day-04)  | :hourglass_flowing_sand: TBD | :hourglass_flowing_sand: TBD |
 |[Day 05: TBD](https://github.com/BPitts8019/Advent-of-Code/tree/main/src/day-05)  | :hourglass_flowing_sand: TBD | :hourglass_flowing_sand: TBD |
+|[Day 06: TBD](https://github.com/BPitts8019/Advent-of-Code/tree/main/src/day-06)  | :hourglass_flowing_sand: TBD | :hourglass_flowing_sand: TBD |
+|[Day 07: TBD](https://github.com/BPitts8019/Advent-of-Code/tree/main/src/day-07)  | :hourglass_flowing_sand: TBD | :hourglass_flowing_sand: TBD |
+|[Day 08: TBD](https://github.com/BPitts8019/Advent-of-Code/tree/main/src/day-08)  | :hourglass_flowing_sand: TBD | :hourglass_flowing_sand: TBD |
+|[Day 09: TBD](https://github.com/BPitts8019/Advent-of-Code/tree/main/src/day-09)  | :hourglass_flowing_sand: TBD | :hourglass_flowing_sand: TBD |
+|[Day 10: TBD](https://github.com/BPitts8019/Advent-of-Code/tree/main/src/day-10)  | :hourglass_flowing_sand: TBD | :hourglass_flowing_sand: TBD |
 
 ## Running Tests
 
