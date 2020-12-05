@@ -1,0 +1,23 @@
+{
+  "name": "adevent-of-code-template",
+  "version": "1.0.0",
+  "description": "A repo template for creating Advent of Code projects",
+  "main": "index.js",
+  "scripts": {
+   "test": "jest --verbose --watchAll=false", 
+   "testDev": "jest --verbose --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BPitts8019/Advent-of-Code.git"
+  },
+  "author": "Bradley Pitts",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BPitts8019/Advent-of-Code/issues"
+  },
+  "homepage": "https://github.com/BPitts8019/Advent-of-Code#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
