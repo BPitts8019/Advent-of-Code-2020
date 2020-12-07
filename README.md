@@ -24,12 +24,17 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 
 ## Progress
 #### Legend
-| | |
-|---|---|
-| :heavy_check_mark: | Day Complete |
-| :star:             | Puzzle Complete |
-| :clock5:           | In Progress |
-| :hourglass_flowing_sand: | TBD |
+<ul style="list-style-type: none;">
+   <li>:heavy_check_mark: Day Complete</li>
+   <li>:star: Puzzle Complete</li>
+   <li>:clock5: In Progress</li>
+   <li>:hourglass_flowing_sand: TBD</li>
+</ul>
+
+
+
+
+
 
 | Day  | Part One | Part Two | 
 |---|:---:|:---:|
