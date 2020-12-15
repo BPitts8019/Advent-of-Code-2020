@@ -43,8 +43,11 @@ const multiplyThreeEntries = (numsList) => {
       let targetSum = 2020 - currentNum;
 
       if (uniqueSums.has(targetSum)) {
+         // console.log(`Cache: (${targetSum}: [${uniqueSums.get(targetSum)}])`);
          return (
-            currentNum * uniqueSums[targetSum][0] * uniqueSums[targetSum][1]
+            currentNum *
+            uniqueSums.get(targetSum)[0] *
+            uniqueSums.get(targetSum)[1]
          );
       }
    }
