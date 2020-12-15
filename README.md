@@ -26,7 +26,7 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 | Day  | Part One | Part Two | 
 |---|:---:|:---:|
 |[Day 01: Expense Report](https://github.com/BPitts8019/Advent-of-Code/tree/main/src/day-01)  | :star: Complete | :star: Complete |
-|[Day 02: TBD](https://github.com/BPitts8019/Advent-of-Code/tree/main/src/day-02)  | :hourglass_flowing_sand: TBD | :hourglass_flowing_sand: TBD |
+|[Day 02: TBD](https://github.com/BPitts8019/Advent-of-Code/tree/main/src/day-02)  | :clock5: In Progress | :hourglass_flowing_sand: TBD |
 |[Day 03: TBD](https://github.com/BPitts8019/Advent-of-Code/tree/main/src/day-03)  | :hourglass_flowing_sand: TBD | :hourglass_flowing_sand: TBD |
 |[Day 04: TBD](https://github.com/BPitts8019/Advent-of-Code/tree/main/src/day-04)  | :hourglass_flowing_sand: TBD | :hourglass_flowing_sand: TBD |
 |[Day 05: TBD](https://github.com/BPitts8019/Advent-of-Code/tree/main/src/day-05)  | :hourglass_flowing_sand: TBD | :hourglass_flowing_sand: TBD |
