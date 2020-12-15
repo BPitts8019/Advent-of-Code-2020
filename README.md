@@ -31,11 +31,6 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
    <li>:hourglass_flowing_sand: TBD</li>
 </ul>
 
-
-
-
-
-
 | Day  | Part One | Part Two | 
 |---|:---:|:---:|
 |[Day 01: Expense Report](https://github.com/BPitts8019/Advent-of-Code/tree/main/src/day-01)  | :star: Complete | :clock5: In Progress |
