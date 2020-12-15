@@ -1,3 +1,21 @@
+const cacheSums = (numsList) => {
+   const cache = new Map();
+
+   for (let i = 0; i < numsList.length; i++) {
+      let currentNum = numsList[i];
+
+      for (let j = i + 1; j < numsList.length; j++) {
+         let otherNum = numsList[j];
+         let sum = currentNum + otherNum;
+         if (!cache.has(sum)) {
+            cache.set(sum, [currentNum, otherNum]);
+         }
+      }
+   }
+
+   return cache;
+};
+
 const multiplyEntries = (numsList, targetSum = 2020) => {
    const cache = new Set();
 
@@ -18,7 +36,9 @@ const multiplyEntries = (numsList, targetSum = 2020) => {
 };
 
 const multiplyExtraEntries = (numsList) => {
-   const cache = new Map();
+   const sums = cacheSums(numsList);
+
+   console.log(sums);
 };
 
 module.exports = { multiplyEntries, multiplyExtraEntries };

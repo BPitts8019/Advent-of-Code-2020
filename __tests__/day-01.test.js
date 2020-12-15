@@ -1,6 +1,6 @@
 const {
    multiplyEntries,
-   multiplyExtraEntries,
+   multiplyThreeEntries,
 } = require("../src/day-01/expenseReport");
 
 /*
@@ -32,14 +32,14 @@ Part 2 Test Requirements
 describe("Day 01b: Expense Report - Three Entries", () => {
    it("Can handle a list with unique values", () => {
       const input = [1721, 979, 366, 299, 675, 1456];
-      expect(multiplyExtraEntries(input)).toBe(979 * 366 * 675);
+      expect(multiplyThreeEntries(input)).toBe(979 * 366 * 675);
    });
    it("Can handle a list with duplicate values", () => {
       const input = [252, 1768, 884, 884, 598, 632, 786];
-      expect(multiplyExtraEntries(input)).toBe(252 * 884 * 884);
+      expect(multiplyThreeEntries(input)).toBe(252 * 884 * 884);
    });
    it("Can fail to find a result", () => {
       const input = [1, 2, 3, 4, 5, 6];
-      expect(multiplyExtraEntries(input)).toBe(null);
+      expect(multiplyThreeEntries(input)).toBe(null);
    });
 });
