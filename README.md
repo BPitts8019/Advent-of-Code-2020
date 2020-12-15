@@ -23,17 +23,9 @@ To save your vacation, you need to get all **fifty stars** by December 25th.
 Collect stars by solving puzzles. Two puzzles will be made available on each day in the Advent calendar; the second puzzle is unlocked when you complete the first. Each puzzle grants **one star**. Good luck!
 
 ## Progress
-#### Legend
-<ul style="list-style-type: none;">
-   <li>:heavy_check_mark: Day Complete</li>
-   <li>:star: Puzzle Complete</li>
-   <li>:clock5: In Progress</li>
-   <li>:hourglass_flowing_sand: TBD</li>
-</ul>
-
 | Day  | Part One | Part Two | 
 |---|:---:|:---:|
-|[Day 01: Expense Report](https://github.com/BPitts8019/Advent-of-Code/tree/main/src/day-01)  | :star: Complete | :clock5: In Progress |
+|[Day 01: Expense Report](https://github.com/BPitts8019/Advent-of-Code/tree/main/src/day-01)  | :star: Complete | :star: Complete |
 |[Day 02: TBD](https://github.com/BPitts8019/Advent-of-Code/tree/main/src/day-02)  | :hourglass_flowing_sand: TBD | :hourglass_flowing_sand: TBD |
 |[Day 03: TBD](https://github.com/BPitts8019/Advent-of-Code/tree/main/src/day-03)  | :hourglass_flowing_sand: TBD | :hourglass_flowing_sand: TBD |
 |[Day 04: TBD](https://github.com/BPitts8019/Advent-of-Code/tree/main/src/day-04)  | :hourglass_flowing_sand: TBD | :hourglass_flowing_sand: TBD |
