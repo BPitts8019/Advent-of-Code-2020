@@ -35,10 +35,21 @@ const multiplyEntries = (numsList, targetSum = 2020) => {
    return null;
 };
 
-const multiplyExtraEntries = (numsList) => {
-   const sums = cacheSums(numsList);
+const multiplyThreeEntries = (numsList) => {
+   const uniqueSums = cacheSums(numsList);
 
-   console.log(sums);
+   for (let i = 0; i < numsList.length; i++) {
+      let currentNum = numsList[i];
+      let targetSum = 2020 - currentNum;
+
+      if (uniqueSums.has(targetSum)) {
+         return (
+            currentNum * uniqueSums[targetSum][0] * uniqueSums[targetSum][1]
+         );
+      }
+   }
+
+   return null;
 };
 
-module.exports = { multiplyEntries, multiplyExtraEntries };
+module.exports = { multiplyEntries, multiplyThreeEntries };
